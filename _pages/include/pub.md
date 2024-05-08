@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><pdf src='images/deceouple_then_classify.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/deceouple_then_classify.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Scalable Incomplete Multi-View Clustering with Structure Alignment</h5></font>
