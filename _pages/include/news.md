@@ -1,4 +1,6 @@
 # 🔥 News
-- *2024.05*: &nbsp; two Papers have been accepted by ICML 2024 (`CCF A`). 
-- *2024.03*: &nbsp; One paper has been accepted by IEEE-TIP.
-- *2024.03*: &nbsp; One paper has been accepted by IEEE-TNNLS. 
+(Papers as first author are bolded.)
+- *2024.05*: &nbsp; One papers have been accepted by IEEE-TKDE (<font color="red">`CCF A`</font>). 
+- *2024.05*: &nbsp; Two papers have been accepted by **ICML 2024** (<font color="red">`CCF A`</font>). 
+- *2024.03*: &nbsp; One paper has been accepted by **IEEE-TIP** (<font color="red">`CCF A, SCI 1区</font>).
+- *2024.03*: &nbsp; One paper has been accepted by **IEEE-TNNLS** (<font color="red">`CCF B`, SCI 1区`</font>). 
