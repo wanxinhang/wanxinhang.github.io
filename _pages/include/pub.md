@@ -28,8 +28,19 @@
 
 <font size = 3><h5>One-step Multi-view Clustering with Diverse Representation</h5></font>
 
-**Xinhang Wan**, Jiyuan Liu, Xinbiao Gan, Xinwang Liu<sup>#</sup>, Siwei Wang, Yi Wen, Tianjiao Wan, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ieeexplore.ieee.org/document/10486880/)
+**Xinhang Wan**, Jiyuan Liu, Xinbiao Gan, Xinwang Liu<sup>#</sup>, Siwei Wang, Yi Wen, Tianjiao Wan, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/OMVCDR) [**PDF**](https://ieeexplore.ieee.org/document/10486880/)
 
 - By directly calculating the distance among samples with diverse representation, we incorporate matrix factorization and k-means into a unified framework with linear complexity. They negotiate with each other and boost the clustering performance. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/OMVCDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>Auto-weighted Multi-view Clustering for Large-scale Data</h5></font>
+
+**Xinhang Wan**, Xinwang Liu<sup>#</sup>, Jiyuan Liu, Siwei Wang, Yi Wen, Weixuan Liang, En Zhu, Zhe Liu, Lu Zhou. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ojs.aaai.org/index.php/AAAI/article/view/26201)
+
+- We remove the non-negative constraint of non-negative matrix factorization and obtain coefficient matrices with view-specific base matrices of different dimensions, and integrate them into a consensus one in a parameter-free way. 
 </div>
 </div>
