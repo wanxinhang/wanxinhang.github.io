@@ -50,7 +50,7 @@
 
 <font size = 3><h5>Continual Multi-view Clustering</h5></font>
 
-**Xinhang Wan**, Jiyuan Liu, Weixuan Liang, Xinwang Liu<sup>#</sup>, Yi Wen, En Zhu. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ojs.aaai.org/index.php/AAAI/article/view/26201)
+**Xinhang Wan**, Jiyuan Liu, Weixuan Liang, Xinwang Liu<sup>#</sup>, Yi Wen, En Zhu. [**Code**](https://github.com/wanxinhang/CMVC) [**PDF**](https://dl.acm.org/doi/abs/10.1145/3503161.3547864)
 
 - We propose CMVC and it is the first attempt to handle real-time issues in late fusion multi-view clustering literature and will provide an inspiration for future research.  
 </div>
