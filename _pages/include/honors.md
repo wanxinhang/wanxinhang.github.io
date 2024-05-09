@@ -6,6 +6,5 @@
 - *2021.06* Excellent Graduated Graduate Student of Northeastern University.(校优秀学生)
 - *2019.10* outstanding CLP member, Northeastern University. (校优秀团员标兵)
 - *2018.10* Outstanding Student, Northeastern University. (校优秀学生)
-- *2018.10* Outstanding Student, Northeastern University. (校优秀学生)
 - *2018.10* Eighth place in Rope Skipping at the School sports meeting, Northeastern University. (校运会跳绳第八名)
   
