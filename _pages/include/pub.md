@@ -17,9 +17,19 @@
 
 <font size = 3><h5>Fast Continual Multi-View Clustering with Incomplete Views</h5></font>
 
-Xinhang Wan, Bin Xiao, Xinwang Liu<sup>#</sup>, Jiyuan Liu, Weixuan Liang, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/TIP-2024-FCMVC-IV) [**PDF**](https://ieeexplore.ieee.org/abstract/document/10506102)
+**Xinhang Wan**, Bin Xiao, Xinwang Liu<sup>#</sup>, Jiyuan Liu, Weixuan Liang, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/TIP-2024-FCMVC-IV) [**PDF**](https://ieeexplore.ieee.org/abstract/document/10506102)
 
 - We study a new paradigm for large-scale multi-view clustering called the incomplete continual data problem (ICDP) and propose FCMVC-IV to tackle the problem. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TNNLS</div><img src='images/OMVCDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>One-step Multi-view Clustering with Diverse Representation</h5></font>
+
+**Xinhang Wan**, Jiyuan Liu, Xinbiao Gan, Xinwang Liu<sup>#</sup>, Siwei Wang, Yi Wen, Tianjiao Wan, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ieeexplore.ieee.org/document/10486880/)
+
+- By directly calculating the distance among samples with diverse representation, we incorporate matrix factorization and k-means into a unified framework with linear complexity. They negotiate with each other and boost the clustering performance. 
+</div>
+</div>
