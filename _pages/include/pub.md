@@ -34,7 +34,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AWMVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/my_AWMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Auto-weighted Multi-view Clustering for Large-scale Data</h5></font>
