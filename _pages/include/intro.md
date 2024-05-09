@@ -5,3 +5,4 @@ Xinhang Wan (万欣航) is a Ph.D student at degree College of Computer Science 
 He is currently a visiting student in the [PLUS Lab](https://plus.sist.shanghaitech.edu.cn/) at ShanghaiTech under the guidance of [Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html).
 
 **Research Interests**: Affordance learning, Multi-view Learning, Continual Learning, Active Learning, Semi-supervised Classification, Clustering. 
+**Contact**: wanxinhang@nudt.edu.cn
