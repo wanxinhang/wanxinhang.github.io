@@ -34,13 +34,24 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/OMVCDR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AWMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Auto-weighted Multi-view Clustering for Large-scale Data</h5></font>
 
 **Xinhang Wan**, Xinwang Liu<sup>#</sup>, Jiyuan Liu, Siwei Wang, Yi Wen, Weixuan Liang, En Zhu, Zhe Liu, Lu Zhou. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ojs.aaai.org/index.php/AAAI/article/view/26201)
 
-- We remove the non-negative constraint of non-negative matrix factorization and obtain coefficient matrices with view-specific base matrices of different dimensions, and integrate them into a consensus one in a parameter-free way. 
+- We remove the non-negative constraint of non-negative matrix factorization and obtain coefficient matrices with view-specific base matrices of different dimensions, then integrate them into a consensus one in a parameter-free way. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/CMVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>Continual Multi-view Clustering</h5></font>
+
+**Xinhang Wan**, Jiyuan Liu, Weixuan Liang, Xinwang Liu<sup>#</sup>, Yi Wen, En Zhu. [**Code**](https://github.com/wanxinhang/AAAI-2023-AWMVC) [**PDF**](https://ojs.aaai.org/index.php/AAAI/article/view/26201)
+
+- We propose CMVC and it is the first attempt to handle real-time issues in late fusion multi-view clustering literature and will provide an inspiration for future research.  
 </div>
 </div>
