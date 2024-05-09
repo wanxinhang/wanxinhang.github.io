@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *2023.01* Outstanding Student (1%), National University of Defense Technology. (校优秀学员，top 1%)
+- *2023.01* Outstanding Student, National University of Defense Technology. (校优秀学员，top 1%)
 - *2022.10* National scholarship, National University of Defense Technology. (研究生国家奖学金)
 - *2022.10* Fifth in the 100m at the School sports meeting, National University of Defense Technology. (校运会100m第五名)
 - *2022.10* Member of the College Basketball Team, National University of Defense Technology.（学院篮球队队员）
