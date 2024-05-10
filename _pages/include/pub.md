@@ -55,3 +55,14 @@
 - We propose CMVC and it is the first attempt to handle real-time issues in late fusion multi-view clustering literature and will provide an inspiration for future research.  
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CCMVC_FSF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion</h5></font>
+
+**Xinhang Wan**, et al. [**PDF**](https://arxiv.org/abs/2309.15135)
+
+- We study a new paradigm on continual multi-view clustering, termed catastrophic forgetting problem (CFP). A clustering then sample strategy is deployed to extract and update the filtered structure information of prior views, then the attained information will guide the clustering when a new view arrives.  
+</div>
+</div>
