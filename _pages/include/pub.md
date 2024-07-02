@@ -56,7 +56,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/CCMVC_FSF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TNNLS(major revision)</div><img src='images/CCMVC_FSF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion</h5></font>
