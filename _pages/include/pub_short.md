@@ -1,4 +1,4 @@
-- **An Lightweight Anchor-Based Incremental Framework to Multi-view Clustering**, Qian Qu, **Xinhang Wan**, Weixuan Liang, Jiyuan Liu, Yu Feng, Huiying Xu, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, **ACM MM 2024**.
+- **A Lightweight Anchor-Based Incremental Framework to Multi-view Clustering**, Qian Qu, **Xinhang Wan**, Weixuan Liang, Jiyuan Liu, Yu Feng, Huiying Xu, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, **ACM MM 2024**.
 - **Multiple Kernel Clustering with Adaptive Multi-scale Partition Selection**, Jun Wang, Zhenglai Li, Chang Tang<sup>#</sup>, Suyuan Liu, **Xinhang Wan**, Xinwang Liu<sup>#</sup>, **IEEE-TKDE**. [**Code**](https://github.com/WangJun2023/MPS) [**PDF**](https://ieeexplore.ieee.org/abstract/document/10529609)
 - **Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering**, Shengju Yu, Dong Zhibin, Siwei Wang, **Xinhang Wan**, Yue Liu, Weixuan Liang, Pei Zhang, Wenxuan Tu, Xinwang Liu<sup>#</sup>, **ICML 2024** <font color="red" bgcolor=grey>(spotlight)</font>.
 [**PDF**](https://icml.cc/virtual/2024/poster/34180)
