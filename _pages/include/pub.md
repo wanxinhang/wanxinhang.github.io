@@ -6,7 +6,7 @@
 
 <font size = 3><h5>Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information</h5></font>
 
-**Xinhang Wan**, Jiyuan Liu, Xinwang Liu<sup>#</sup>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/ICML2024_decouple_then_classify) [**PDF**](https://icml.cc/virtual/2024/poster/33857)
+**Xinhang Wan**, Jiyuan Liu, Xinwang Liu<sup>#</sup>, Yi Wen, Hao Yu, Siwei Wang, Shengju Yu, Tianjiao Wan, Jun Wang, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/ICML2024_decouple_then_classify) [**PDF**](https://proceedings.mlr.press/v235/wan24e.html)
 
 - We propose an efficient algorithm to tackle the sample labeling task in semi-supervised multi-view learning. The samples of low classification confidence are labeled as high priorities.
 </div>
