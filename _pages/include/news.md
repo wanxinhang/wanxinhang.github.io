@@ -1,5 +1,6 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2024.11*: &nbsp; I won China National Scholarship for Phd students.
 - *2024.11*: &nbsp; **One paper has been accepted by IEEE-TNNLS (<font color="red" bgcolor=grey>CCF B, SCI 1区</font>).**
 - *2024.09*: &nbsp; One paper has been accepted by NDSS 2025 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2024.07*: &nbsp; One paper has been accepted by ACM MM 2024 (<font color="red" bgcolor=grey>CCF A</font>).
