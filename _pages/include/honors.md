@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2024.12* Outstanding Student, National University of Defense Technology. (校优秀学员，top 1%)
 - *2024.11* National scholarship, National University of Defense Technology. (研究生国家奖学金)
 - *2023.01* Outstanding Student, National University of Defense Technology. (校优秀学员，top 1%)
 - *2022.10* National scholarship, National University of Defense Technology. (研究生国家奖学金)
