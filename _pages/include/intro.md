@@ -8,3 +8,5 @@ Xinhang Wan (万欣航) is a Ph.D student at degree College of Computer Science 
 **Research Interests**: Affordance learning, Novel class discovery, Multi-view Learning, Continual Learning, Active Learning, Semi-supervised Classification, Clustering. 
 
 **Contact**: wanxinhang@nudt.edu.cn
+
+**Wechat**: 13390144829.
