@@ -1,3 +1,4 @@
+- **Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels**, Jiyuan Liu, Xinwang Liu, Chuankun Li, **Xinhang Wan**, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang, **CVPR  2025**.
 - **Incremental Nyström-based Multiple Kernel Clustering**,  Yu Feng, Weixuan Liang, **Xinhang Wan**, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu, Xinwang Liu, **AAAI 2025**.
 - **Incomplete Multi-view Clustering via Diffusion Contrastive Generation**,  Yuanyang Zhang*, Yijie Lin*, Weiqing Yan, Li Yao, **Xinhang Wan**, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu, **AAAI 2025**.
 - **DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning**, Hao Yu, Chuan Ma, **Xinhang Wan**, Jun Wang, Tao Xiang, Meng Shen, Xinwang Liu, **NDSS 2025**.
