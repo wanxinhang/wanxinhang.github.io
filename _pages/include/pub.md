@@ -29,7 +29,7 @@
 
 <font size = 3><h5>Contrastive Continual Multi-view Clustering with Filtered Structural Fusion</h5></font>
 
-**Xinhang Wan**, Jiyuan Liu, Hao Yu, Qian Qu, Ao li, Xinwang Liu<sup>#</sup>, Ke Liang, Zhibin Dong, En Zhu<sup>#</sup>. [**PDF**](https://arxiv.org/abs/2309.15135)
+**Xinhang Wan**, Jiyuan Liu, Hao Yu, Qian Qu, Ao li, Xinwang Liu<sup>#</sup>, Ke Liang, Zhibin Dong, En Zhu<sup>#</sup>. [**Code**](https://github.com/wanxinhang/CCMVC-FSF) [**PDF**](https://arxiv.org/abs/2309.15135)
 
 - We study a new paradigm on continual multi-view clustering, termed catastrophic forgetting problem (CFP). A clustering then sample strategy is deployed to extract and update the filtered structure information of prior views, then the attained information will guide the clustering when a new view arrives.  
 </div>
