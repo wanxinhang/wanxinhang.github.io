@@ -1,5 +1,6 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2025.05*: &nbsp; **My OMVCDR (IEEE TNNLS 2024) paper is featured as a <font color="red" bgcolor=grey>ESI Highly Cited Paper</font>.**
 - *2025.05*: &nbsp; One paper has been accepted by ICML 2025 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2025.02*: &nbsp; One paper has been accepted by CVPR 2025 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2024.12*: &nbsp; Two papers have been accepted by AAAI 2025 (<font color="red" bgcolor=grey>CCF A</font>).
