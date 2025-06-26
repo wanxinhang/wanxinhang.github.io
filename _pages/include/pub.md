@@ -1,6 +1,17 @@
 # 📝 Publications 
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv_framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>Intra-view and Inter-view Correlation Guided Multi-view Novel Class Discovery</h5></font>
+
+**Xinhang Wan**, Jiyuan Liu, Qian Qu, Suyuan Liu, Chuyu Zhang, Fangdi Wang, Xinwang Liu<sup>#</sup>, En Zhu, Kunlun He. 
+
+- To the best of our knowledge, this is the first attempt to address novel class discovery in the multi-view setting. We exploit intra-view and inter-view correlations to transfer knowledge from known classes to novel classes.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/deceouple_then_classify.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
