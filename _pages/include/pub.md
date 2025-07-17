@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Intra-view and Inter-view Correlation Guided Multi-view Novel Class Discovery</h5></font>
-**Xinhang Wan**, Jiyuan Liu, Qian Qu, Suyuan Liu, Chuyu Zhang, Fangdi Wang, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, Kunlun He. [**Code**](https://github.com/wanxinhang/ICCV2025-IICMVNCD) 
+**Xinhang Wan**, Jiyuan Liu, Qian Qu, Suyuan Liu, Chuyu Zhang, Fangdi Wang, Xinwang Liu<sup>#</sup>, En Zhu<sup>#</sup>, Kunlun He. [**Code**](https://github.com/wanxinhang/ICCV2025-IICMVNCD)  [**PDF**](https://arxiv.org/abs/2507.12029)
 
 - To the best of our knowledge, this is the first attempt to address novel class discovery in the multi-view setting. We exploit intra-view and inter-view correlations to transfer knowledge from known classes to novel classes.
 </div>
