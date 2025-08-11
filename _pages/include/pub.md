@@ -1,6 +1,6 @@
 # 📝 Publications 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix</div><img src='images/overview_shanghaitech.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix</div><img src='images/overview_shanghaitech.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 3><h5>Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning</h5></font>
