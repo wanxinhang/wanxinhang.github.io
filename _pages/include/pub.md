@@ -1,6 +1,15 @@
 # 📝 Publications 
-
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arvix</div><img src='images/overview_shanghaitech.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size = 3><h5>Object Affordance Recognition and Grounding via Multi-scale Cross-modal Representation Learning</h5></font>
+**Xinhang Wan**<sup>*</sup>, Dongqiang Gou<sup>*</sup>,  Xinwang Liu, En Zhu, Xuming He.  [**PDF**](https://arxiv.org/abs/2508.01184)
+
+- We propose a novel approach that learns an affordance-aware 3D representation and employs a stage-wise inference strategy leveraging the dependency between grounding and classification tasks.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/iccv_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
