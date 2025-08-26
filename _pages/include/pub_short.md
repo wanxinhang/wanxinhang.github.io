@@ -1,4 +1,4 @@
--  **Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity**, Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Miaomiao Li, and Xinwang Liu<sup>#</sup>, **IEEE-TKDE**.
+-  **Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity**, Yu Feng, Weixuan Liang, **Xinhang Wan**, Jiyuan Liu, Miaomiao Li, and Xinwang Liu<sup>#</sup>, **IEEE-TKDE**.
 -  **Communication-Efficient Federated Multi-view Clustering**, Jiyuan Liu, Xinwang Liu<sup>#</sup>, Siqi Wang, **Xinhang Wan**, Dongsheng Li, Kai Lu, Kunlun He, **IEEE-TPAMI**.
 -  **Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation**, Yaowenhu, Wenxuan Tu, Yue Liu, **Xinhang Wan**, Junyi Yan, Taichun Zhou, Xinwang Liu<sup>#</sup>, **ICML  2025**.
 - **Large-scale Multi-view Tensor Clustering with Implicit Linear Kernels**, Jiyuan Liu, Xinwang Liu, Chuankun Li, **Xinhang Wan**, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, Yu Feng, Renxiang Guan, Ke Liang, **CVPR  2025**.
