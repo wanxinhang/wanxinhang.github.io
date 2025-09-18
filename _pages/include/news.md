@@ -1,5 +1,6 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2025.09*: &nbsp; Two papers have been accepted by Neurips 2025 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2025.08*: &nbsp; One paper has been accepted by IEEE-TKDE (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2025.08*: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2025.06*: &nbsp; **One paper has been accepted by ICCV 2025 (<font color="red" bgcolor=grey>CCF A</font>)**.
