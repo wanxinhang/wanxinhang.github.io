@@ -1,3 +1,4 @@
+-  **Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering**, Qian Qu, **Xinhang Wan**, Jiyuan Liu, Xinwang Liu, En Zhu, **IEEE-TCSVT**.
 -  **Incomplete Multi-view Deep Clustering with Data Imputation and Alignment**, Jiyuan Liu, Xinwang Liu, **Xinhang Wan**,  Ke Liang, Weixuan Liang, Sihang Zhou, Huijun Wu, Kehua Guo, **NeurIPS 2025**.
 -  **Bit-swapping Oriented Twin-memory Multi-view Clustering in Lifelong Incomplete Scenarios**, Shengju Yu, Pei Zhang, Siwei Wang, Suyuan Liu, **Xinhang Wan**, Zhibin Dong, Tiejun Li, Xinwang Liu, **NeurIPS 2025**.
 -  **Incremental Multi-View Clustering: Exploring Stream-View Correlations to Learn Consistency and Diversity**, Yu Feng, Weixuan Liang, **Xinhang Wan**, Jiyuan Liu, Miaomiao Li, and Xinwang Liu<sup>#</sup>, **IEEE-TKDE**.
