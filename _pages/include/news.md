@@ -1,5 +1,6 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2026.06*: &nbsp; One paper has been accepted by UAI (<font color="red" bgcolor=grey>CAAI A</font>).
 - *2026.03*: &nbsp; One paper has been accepted by IEEE-TKDE (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2025.11*: &nbsp; One paper has been accepted by AAAI 2026 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2025.09*: &nbsp; One paper has been accepted by IEEE-TCSVT (<font color="red" bgcolor=grey>CCF B, SCI 1区</font>).
