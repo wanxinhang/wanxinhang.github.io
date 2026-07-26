@@ -1,5 +1,6 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2026.07*: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2026.07*: &nbsp; One paper is featured as a <font color="red" bgcolor=grey>ESI Highly Cited Paper</font>.
 - *2026.07*: &nbsp; One paper has been accepted by ACM MM 2027 (<font color="red" bgcolor=grey>CCF A</font>).
 - *2026.06*: &nbsp; One paper has been accepted by UAI (<font color="red" bgcolor=grey>CAAI A</font>).
