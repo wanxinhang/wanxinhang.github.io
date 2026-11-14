@@ -1,5 +1,7 @@
 # 🔥 News
 (Papers as first author are bolded.)
+- *2026.11*: &nbsp; Our ACM MM 2026 paper won the <font color="red" bgcolor=grey>Outstanding Paper Award</font> (<font color="red" bgcolor=grey>CCF A</font>).
+- *2026.11*: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2026.07*: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor=grey>CCF A, SCI 1区</font>).
 - *2026.07*: &nbsp; One paper is featured as a <font color="red" bgcolor=grey>ESI Highly Cited Paper</font>.
 - *2026.07*: &nbsp; One paper has been accepted by ACM MM 2027 (<font color="red" bgcolor=grey>CCF A</font>).
