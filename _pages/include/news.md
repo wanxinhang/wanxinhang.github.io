@@ -1,7 +1,24 @@
+<style>
+  #news-list {
+    box-sizing: border-box;
+    max-height: 380px;
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+    scrollbar-color: #8c8c8c #f7f7f7;
+    margin: 0;
+    padding: 0 1rem 0 1.75rem;
+    line-height: 1.6;
+  }
+
+  #news-list > li + li {
+    margin-top: 0.45rem;
+  }
+</style>
+
 <h1>🔥 News</h1>
 <p><em>(Papers as first author are bolded.)</em></p>
 
-<ul id="news-list">
+<ul id="news-list" tabindex="0" aria-label="News">
   <li><em>2026.11</em>: &nbsp; Our ACM MM 2026 paper won the <font color="red" bgcolor="grey">Outstanding Paper Award</font> (<font color="red" bgcolor="grey">CCF A</font>).</li>
   <li><em>2026.11</em>: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor="grey">CCF A, SCI 1区</font>).</li>
   <li><em>2026.07</em>: &nbsp; One paper has been accepted by IEEE-TPAMI (<font color="red" bgcolor="grey">CCF A, SCI 1区</font>).</li>
@@ -32,34 +49,3 @@
   <li><em>2022.12</em>: &nbsp; <strong>One paper has been accepted by AAAI 2023 (<font color="red" bgcolor="grey">CCF A</font>)</strong>.</li>
   <li><em>2022.06</em>: &nbsp; <strong>One paper has been accepted by ACM MM 2022 (<font color="red" bgcolor="grey">CCF A</font>)</strong>.</li>
 </ul>
-
-<p style="text-align: center; margin-top: 8px;">
-  <a href="javascript:void(0);" id="news-toggle" onclick="toggleNews()" style="cursor: pointer; font-size: 0.95em;">⬇ 展开更多</a>
-</p>
-
-<script>
-(function () {
-  var VISIBLE_COUNT = 8; // 只改这里就能控制默认显示几条
-  var list = document.getElementById('news-list');
-  var items = Array.prototype.slice.call(list.children);
-  var btn = document.getElementById('news-toggle');
-  var expanded = false;
-
-  function render() {
-    items.forEach(function (li, i) {
-      // 默认：前 VISIBLE_COUNT 条显示；展开后全部显示
-      li.style.display = (expanded || i < VISIBLE_COUNT) ? '' : 'none';
-    });
-    btn.innerHTML = expanded ? '⬆ 收起' : '⬇ 展开更多';
-    // 如果新闻总数不超过可见条数，就隐藏按钮
-    btn.parentNode.style.display = (items.length <= VISIBLE_COUNT) ? 'none' : '';
-  }
-
-  window.toggleNews = function () {
-    expanded = !expanded;
-    render();
-  };
-
-  render();
-})();
-</script>
