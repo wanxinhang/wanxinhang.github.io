@@ -27,6 +27,9 @@ jobs:
         working-directory: google_scholar_crawler
         run: |
           python -m pip install -r requirements.txt
+          curl -sSL --max-time 15 -o /dev/null \
+            -w 'Google Scholar HTTP %{http_code}\nFinal URL: %{url_effective}\n' \
+            "https://scholar.google.com/citations?user=${GOOGLE_SCHOLAR_ID}&hl=en" || true
           python main.py
           python - <<'PY'
           from datetime import datetime, timezone
