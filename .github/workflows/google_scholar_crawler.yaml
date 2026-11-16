@@ -1,29 +1,64 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-scholar-stats
 
 jobs:
-  build:
+  refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GOOGLE_SCHOLAR_ID: '4CxuLpsAAAAJ'
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and validate Google Scholar data
+        working-directory: google_scholar_crawler
+        run: |
+          python -m pip install -r requirements.txt
+          python main.py
+          python - <<'PY'
+          from datetime import datetime, timezone
+          import json
+          import os
+          from pathlib import Path
+
+          path = Path("results/gs_data.json")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          profile = os.environ["GOOGLE_SCHOLAR_ID"]
+          publications = data.get("publications")
+          if data.get("scholar_id") != profile or not publications:
+              raise SystemExit("No publication data for the configured Scholar profile")
+          if not all(key.startswith(profile + ":") for key in publications):
+              raise SystemExit("The publication data contains a different Scholar profile")
+
+          data["updated"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+          path.write_text(json.dumps(data, ensure_ascii=False) + "\n", encoding="utf-8")
+          PY
+
+      - name: Publish the verified snapshot
+        run: |
+          git fetch --no-tags origin refs/heads/google-scholar-stats
+          stats_dir="$RUNNER_TEMP/google-scholar-stats"
+          git worktree add --detach "$stats_dir" FETCH_HEAD
+          cp google_scholar_crawler/results/gs_data.json "$stats_dir/"
+          cp google_scholar_crawler/results/gs_data_shieldsio.json "$stats_dir/"
+          git -C "$stats_dir" add gs_data.json gs_data_shieldsio.json
+          if git -C "$stats_dir" diff --cached --quiet; then
+            exit 0
+          fi
+          git -C "$stats_dir" -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m 'Update Google Scholar citation data'
+          git -C "$stats_dir" push origin HEAD:refs/heads/google-scholar-stats
